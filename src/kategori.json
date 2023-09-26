@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "kategori" : "Junior Suite",
+        "harga" : 100,
+        "fasilitas" : "ac, tv",
+        "status" : "tersedia"
+    },
+    {
+        "id" : 2,
+        "kategori" : "Executive Suite",
+        "harga" : 200,
+        "fasilitas" : "ac, tv, spa",
+        "status" : "tersedia"
+    },
+    {
+        "id" : 3,
+        "kategori" : "Super Deluxe",
+        "harga" : 300,
+        "fasilitas" : "ac, tv, dinner",
+        "status" : "full"
+    }
+]
