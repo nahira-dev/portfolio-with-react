@@ -13,15 +13,15 @@ export default function Contact({
   return (
     <>
       <section id="myContact" className="i pg fh rm ji gp uq">
-        <img src="../src/assets/shape-06.svg" alt="Shape" className="h aa y" />
-        <img src="../src/assets/shape-03.svg" alt="Shape" className="h ca u" />
+        <img src="./shape-06.svg" alt="Shape" className="h aa y" />
+        <img src="./shape-03.svg" alt="Shape" className="h ca u" />
         <img
-          src="../src/assets/shape-07.svg"
+          src="./shape-07.svg"
           alt="Shape"
           className="h w da ee"
         />
-        <img src="../src/assets/shape-12.svg" alt="Shape" className="h p s" />
-        <img src="../src/assets/shape-13.svg" alt="Shape" className="h r q" />
+        <img src="./shape-12.svg" alt="Shape" className="h p s" />
+        <img src="./shape-13.svg" alt="Shape" className="h r q" />
 
         <div>
           <div className="animate_top bb ze rj ki xn vq">
@@ -33,12 +33,12 @@ export default function Contact({
           <div className="tc uf sn tf rn un zf xl:gap-10">
             <div className="animate_top w-full mn/5 to/3 vk sg hh sm yh rq i pg">
               <img
-                src="../src/assets/shape-03.svg"
+                src="./shape-03.svg"
                 alt="Shape"
                 className="h la x wd"
               />
               <img
-                src="../src/assets/shape-06.svg"
+                src="./shape-06.svg"
                 alt="Shape"
                 className="h la ma ne kf"
               />
