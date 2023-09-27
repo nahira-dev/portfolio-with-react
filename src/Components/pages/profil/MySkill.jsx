@@ -3,9 +3,9 @@ import "../../../index.css";
 import CardSkill from "./CardSkill";
 export default function MySkill() {
   const [skillData, setSkill] = useState();
-  const icon09 = "../src/assets/shape-09.svg";
-  const icon10 = "../src/assets/shape-10.svg";
-  const icon11 = "../src/assets/shape-11.svg";
+  const icon09 = "./shape-09.svg";
+  const icon10 = "./shape-10.svg";
+  const icon11 = "./shape-11.svg";
   useEffect(() => {
     fetch("https://65116bce829fa0248e400797.mockapi.io/skill")
       .then((res) => res.json())
