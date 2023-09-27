@@ -2,8 +2,8 @@ import { useEffect, useState } from "react";
 import "../../../index.css";
 import CardGallery from "./CardGallery";
 export default function Gallery() {
-  const iconMan = "../src/assets/icon-man.svg";
-  const iconCalendar = "../src/assets/icon-calender.svg";
+  const iconMan = "./icon-man.svg";
+  const iconCalendar = "./icon-calender.svg";
   const [galleryData, setGallery] = useState();
   useEffect(() => {
     fetch("https://65116bce829fa0248e400797.mockapi.io/gallery")
